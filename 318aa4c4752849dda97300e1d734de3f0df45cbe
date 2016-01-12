@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Tue, 12 Jan 2016 14:09:33 +0100
+Reviewed-on: https://review.gerrithub.io/259360
+Project: rdo-puppet-modules/puppet-swift
+Branch: refs/heads/recomb-original-master-dae09340029f1dd87ca32bd8fbd6bb8778a0cd50
